@@ -41,7 +41,7 @@
     - main5.c: 가입/탈퇴 아이디 기록을 가지고 현재 등록되어있는 아이디를 구하는 문제
     - main6.c: 미리 저장된 문장 내에서의 검색/수정 기능 구현
     
-    :
+    프로그래밍언어:
     - Contents: 데이터형, 오토마타, 컴파일러, 컴퓨터 구조 등 프로그래밍 언어와 관련된 기초적인 지식
     
 #### 2019-01
@@ -76,9 +76,9 @@
 
     OSS 실습:
     - Contents: 오픈소스소프트웨어에 대한 강의 및 Github 활용 실습
-    - Team Repository: [https://github.com/19-2-SKKU-OSS/2019-2-OSS-L8](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L8)
-    - Personal Repository: [https://github.com/wyuinche/2019-2-OSS-L8](https://github.com/wyuinche/2019-2-OSS-L8)
-    - Static Page: [https://19-2-skku-oss.github.io/2019-2-OSS-L8-page/](https://19-2-skku-oss.github.io/2019-2-OSS-L8-page/)
+    Team Repository: [https://github.com/19-2-SKKU-OSS/2019-2-OSS-L8](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L8)
+    Personal Repository: [https://github.com/wyuinche/2019-2-OSS-L8](https://github.com/wyuinche/2019-2-OSS-L8)
+    Static Page: [https://19-2-skku-oss.github.io/2019-2-OSS-L8-page/](https://19-2-skku-oss.github.io/2019-2-OSS-L8-page/)
 
     데이터베이스개론:
     - HW3_BTREE: BTree 일부 구현 과제 (과제에서 주어진 템플릿코드는 업로드 하지 않거나 삭제 후 업로드하였음)
@@ -91,7 +91,7 @@
         calculator.c: 스레드 활용 과제
         peterson.c: peterson's solution 구현
     - Linux Kernel Project: 커널 모듈을 수정하고 컴파일 해보는 프로젝트
-        [https://github.com/wyuinche/OS_project](https://github.com/wyuinche/OS_project)
+    [https://github.com/wyuinche/OS_project](https://github.com/wyuinche/OS_project)
     
     웹프로그래밍:
     - HW1_Make_HP: 자신이 좋아하는 도시를 소개하는 홈페이지 제작 과제(html, css만 사용)
