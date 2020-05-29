@@ -1,27 +1,27 @@
-### ASSIGNMENT
+## ASSIGNMENT
 - This is the repository for assignments.
 ***
-### Courses
+## Courses
 
-#### 2016-01 spring
+### 2016-01 spring
     
     컴퓨팅사고와SW코딩:
     - Contents: 엔트리 강의
     - 2016-entry-files.zip: 엔트리 과제 파일
     
-#### 2016-02 fall
+### 2016-02 fall
 
     문제해결과알고리즘:
     - Contents: python 강의
     - N차실습 폴더: 각 회차 실습
     - project_Data_Simulation: 가상 데이트 시뮬레이션 프로그램....ㅎㅎ
 
-#### 2018-01 spring
+### 2018-01 spring
 
     논리회로:
     - Contents: 논리회로에 대해서 배움...
 
-#### 2018-01 spring -> 2018-02 fall (1학기->2학기로 폴더명 수정)
+### 2018-01 spring -> 2018-02 fall (1학기->2학기로 폴더명 수정)
 
     시스템프로그램:
     - sfc.c: floating point 계산 구현
@@ -44,7 +44,7 @@
     프로그래밍언어:
     - Contents: 데이터형, 오토마타, 컴파일러, 컴퓨터 구조 등 프로그래밍 언어와 관련된 기초적인 지식
     
-#### 2019-01
+### 2019-01
 
     Exchange Student (Special Audit Student)
     Hokkaido University 에서 수강
@@ -72,14 +72,14 @@
     Algorithms and Data Structures
     - Contents: 자료구조
     
-#### 2019-02
+### 2019-02
 
     OSS 실습:
     - Contents: 오픈소스소프트웨어에 대한 강의 및 Github 활용 실습
 
-  [Team Repository](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L8)
-  [Personal Repository](https://github.com/wyuinche/2019-2-OSS-L8)
-  [Static Page](https://19-2-skku-oss.github.io/2019-2-OSS-L8-page/)
+  [Team_Repository](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L8)
+  [Personal_Repository](https://github.com/wyuinche/2019-2-OSS-L8)
+  [Static_Page](https://19-2-skku-oss.github.io/2019-2-OSS-L8-page/)
 
     데이터베이스개론:
     - HW3_BTREE: BTree 일부 구현 과제 (과제에서 주어진 템플릿코드는 업로드 하지 않거나 삭제 후 업로드하였음)
@@ -105,7 +105,7 @@
     - HW2_Web_Server_Limitation: 웹 서버 통신 구현 (TCP/Persistent/Non-Persistent)
     - HW4_Solving_NAT_Problems
     
-#### 2020-01 spring
+### 2020-01 spring
 ! 종강 후 업로드
 
     컴퓨터구조:
