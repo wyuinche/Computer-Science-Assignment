@@ -103,3 +103,10 @@
     - HW2_Web_Server_Limitation: 웹 서버 통신 구현 (TCP/Persistent/Non-Persistent)
     - HW4_Solving_NAT_Problems
     
+#### 2020-01 spring
+! 종강 후 업로드
+
+    컴퓨터구조:
+    - mips 디컴파일러 구현 프로젝트
+    
+    알고리즘:
