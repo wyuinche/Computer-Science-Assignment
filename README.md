@@ -109,6 +109,8 @@
 ! 종강 후 업로드
 
     컴퓨터구조:
-    - mips 디컴파일러 구현 프로젝트
+    - mips-diassembler: mips 디어셈블러 구현 프로젝트
+    - cash-simulator
     
     알고리즘:
+    - HW1~HW6
