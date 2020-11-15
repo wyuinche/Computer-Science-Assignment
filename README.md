@@ -106,7 +106,6 @@
     - HW4_Solving_NAT_Problems
     
 ### 2020-01 spring
-! 종강 후 업로드
 
     컴퓨터구조:
     - mips-diassembler: mips 디어셈블러 구현 프로젝트
@@ -114,3 +113,12 @@
     
     알고리즘:
     - HW1~HW6
+
+### 2020-02
+
+    종합설계프로젝트:
+    - Firebase Authentication, Realtime Database, ML kit를 사용한 Eye Blink Detection 구현
+    - 터치 대신 눈 감기로 동작하는 2~3개의 미니게임, 로그인, 친구추가 및 채팅 기능을 구현한 Android App 개발
+   
+   [GitHub Page] (https://github.com/sdshh5/stare-down)
+   
