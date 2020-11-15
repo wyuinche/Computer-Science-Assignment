@@ -78,7 +78,9 @@
     - Contents: 오픈소스소프트웨어에 대한 강의 및 Github 활용 실습
 
   [Team_Repository](https://github.com/19-2-SKKU-OSS/2019-2-OSS-L8)
+  
   [Personal_Repository](https://github.com/wyuinche/2019-2-OSS-L8)
+  
   [Static_Page](https://19-2-skku-oss.github.io/2019-2-OSS-L8-page/)
 
     데이터베이스개론:
@@ -120,5 +122,5 @@
     - Firebase Authentication, Realtime Database, ML kit를 사용한 Eye Blink Detection 구현
     - 터치 대신 눈 감기로 동작하는 2~3개의 미니게임, 로그인, 친구추가 및 채팅 기능을 구현한 Android App 개발
    
-   [GitHub Page] (https://github.com/sdshh5/stare-down)
+   [GitHub Page](https://github.com/sdshh5/stare-down)
    
